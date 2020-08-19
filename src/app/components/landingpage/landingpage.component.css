@@ -1,0 +1,23 @@
+
+  html,.bod {
+    right: 0px;
+    top: 0px;
+    margin: 0%;
+    padding: 50%;
+    font-family: Arial, Helvetica, Sans-serif;
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-image: url(src\assets\image\pexels-photo-2029867.jpeg);
+  }
+  #barre_fixe
+{
+position: fixed;
+top: 0px;
+right: 6px;
+width:2%;
+background: rgba(19, 18, 18, 0.73);
+padding: 0px;
+color: #fff;
+text-emphasis: left;
+font-size: 10px;
+}

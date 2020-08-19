@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "consultantship"
+    }
+  },
+  "defaultProject": "consultantship",
+  "cli": {
+    "analytics": "451edc1c-bbe9-420f-bb91-4e85beaf75e6"
+  }
 }
